@@ -11,7 +11,7 @@
 * [Topic Modelling](#3)
 * [Book Recommendations](#4)
 
-> Note: I have included my presentation slides (from 05/07/24) as a pdf in this repository. The results shown in here may be different to the other files in this repository or when you r
+> Note: I have included my presentation slides (from 05/07/24) as a pdf in this repository. The results shown in here may be different to the other files in this repository, since different results are produced when the cells are rerun.
 
 ## **1** WebScraping <a class="anchor" id="1"></a>
 ## **2** Sentiment Analysis <a class="anchor" id="2"></a>
