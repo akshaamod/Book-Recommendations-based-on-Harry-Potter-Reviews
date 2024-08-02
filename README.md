@@ -1,4 +1,4 @@
-# Book Reccomendations based on Harry Potter Reviews
+# Harry Potter Book Recommendations
  Can I give you good book recommendations based on your favourite Harry Potter book?
  
  ## Overview
