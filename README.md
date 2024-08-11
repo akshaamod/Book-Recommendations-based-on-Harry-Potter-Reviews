@@ -14,6 +14,18 @@
 > Note: I have included my presentation slides (from 05/07/24) as a pdf in this repository. The results shown in here may be different to the other files in this repository, since different results are produced when the cells are rerun.
 
 ## **1** WebScraping <a class="anchor" id="1"></a>
+To WebScrape the Reviews from GoodReads, I used **BeautifulSoup** and **Selenium**. 
+
+The WebScraping files are not included in this repository beacause I had to alter my data collection method slightly due to some issues I encountered. 
+
 ## **2** Sentiment Analysis <a class="anchor" id="2"></a>
-## **3** Topic Moselling <a class="anchor" id="3"></a>
+The plan was to use sentiment analysis to identify a users favourite book, however, due to the issues I had with the data collection, I collected fewer reviews than expected. So instead I decided to carry out the analysis to find out how much the user likes a particular book. 
+
+I made use of **VADER**, which is a pre-trained sentiment analysis model, specialised for analysing social media texts. It provided me with _polarity scores_ which I used to gauge the user's sentiment.
+
+_Read more about VADER in this [article](https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-analysis-in-python-c4f1868b0d2e)_
+
+## **3** Topic Modelling <a class="anchor" id="3"></a>
+I applied the **Latent Dirichlet Allocation (LDA)** method for topic modeling.
+
 ## **4** Book Recommendations <a class="anchor" id="4"></a>
