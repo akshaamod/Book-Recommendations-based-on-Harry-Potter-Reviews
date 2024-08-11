@@ -32,8 +32,9 @@ To assess the quality of the topic modeling, I calculated the _coherence score_ 
 _Read more about LDA in this [article](https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2)_
 
 ## **4** Book Recommendations <a class="anchor" id="4"></a>
-I currently have not made a book recommendation engine. In order to make this I will have to:
- 1. Combine the sentiment analysis an topic modelling to create a user profile that shows their likes and dislikes
- 2. Collect data on other books
- 3. Identify topics in the other books
- 4. Create the engine!!
+I have not yet made a book recommendation engine. To create this, I will need to:
+
+ 1. **Combine sentiment analysis and topic modeling** to build user profiles that capture their likes and dislikes.
+ 2. **Collect data** on other books, including relevant features such as genres, themes, and reader reviews.
+ 3. **Identify topics** in these other books using topic modeling.
+ 4. **Develop the recommendation engine** that matches users' preferences with books that align with their identified interests.
