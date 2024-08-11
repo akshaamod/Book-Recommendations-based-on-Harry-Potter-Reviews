@@ -26,6 +26,14 @@ I made use of **VADER**, which is a pre-trained sentiment analysis model, specia
 _Read more about VADER in this [article](https://medium.com/@rslavanyageetha/vader-a-comprehensive-guide-to-sentiment-analysis-in-python-c4f1868b0d2e)_
 
 ## **3** Topic Modelling <a class="anchor" id="3"></a>
-I applied the **Latent Dirichlet Allocation (LDA)** method for topic modeling.
+I applied the **Latent Dirichlet Allocation (LDA)** method for topic modeling and used **PyLDAvis** to visualize the results.
+To assess the quality of the topic modeling, I calculated the _coherence score_ and used a script to identify the model with the maximum coherence score.
+
+_Read more about LDA in this [article](https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2)_
 
 ## **4** Book Recommendations <a class="anchor" id="4"></a>
+I currently have not made a book recommendation engine. In order to make this I will have to:
+ 1. Combine the sentiment analysis an topic modelling to create a user profile that shows their likes and dislikes
+ 2. Collect data on other books
+ 3. Identify topics in the other books
+ 4. Create the engine!!
