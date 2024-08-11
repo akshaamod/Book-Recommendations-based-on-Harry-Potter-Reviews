@@ -14,7 +14,7 @@
 > Note: I have included my presentation slides (from 05/07/24) as a pdf in this repository. The results shown in here may be different to the other files in this repository, since different results are produced when the cells are rerun.
 
 ## **1** WebScraping <a class="anchor" id="1"></a>
-To WebScrape the Reviews from GoodReads, I used **BeautifulSoup** and **Selenium**. 
+To WebScrape the reviews from GoodReads, I used **BeautifulSoup** and **Selenium**. 
 
 The WebScraping files are not included in this repository beacause I had to alter my data collection method slightly due to some issues I encountered. 
 
